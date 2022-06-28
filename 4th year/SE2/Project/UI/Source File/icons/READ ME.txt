@@ -1,0 +1,1 @@
+icon file path should be - "NetBeansProjects\Student Project Allocation\src\student\project\allocation\icons"

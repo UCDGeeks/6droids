@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1385316878 source:f:\documents\national school of business management\bsc in computer science - batch 4 - ucd\year 4\artificial intelligence\assignment\pacman_search\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1456643552 source:f:\documents\national school of business management\bsc in computer science - batch 4 - ucd\year 4\artificial intelligence\assignment\pacman_search\pacman_search.c
+	<stdio.h>
+	<stdbool.h>
+
